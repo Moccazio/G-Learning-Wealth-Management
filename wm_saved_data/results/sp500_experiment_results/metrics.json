@@ -1,0 +1,8 @@
+{
+  "avg_final_wealth": -336316.5976662524,
+  "std_final_wealth": 3050564.479442533,
+  "max_final_wealth": -0.053004178158013365,
+  "min_final_wealth": -30575421.545603815,
+  "avg_cumulative_reward": NaN,
+  "num_trajectories": 100
+}
