@@ -1,0 +1,22 @@
+{
+  "start_date": "2016-01-01",
+  "end_date": "2023-12-31",
+  "data_frequency": "monthly",
+  "saved_date": "2025-09-13T21:08:03.183249",
+  "stock_prices_shape": [
+    96,
+    99
+  ],
+  "returns_shape": [
+    36,
+    99
+  ],
+  "cov_matrix_shape": [
+    99,
+    99
+  ],
+  "expected_returns_shape": [
+    99
+  ],
+  "num_tickers": 99
+}
